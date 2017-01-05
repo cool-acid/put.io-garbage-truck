@@ -1,0 +1,25 @@
+{
+  "name": "put.io-garbage-truck",
+  "version": "1.0.0",
+  "description": "A collection of scripts to keep my put.io account with lots of space",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cool-acid/put.io-garbage-truck.git"
+  },
+  "keywords": [
+    "put.io"
+  ],
+  "author": "Eduardo Vaugier <eduardo@vaugier.mx> (http://vaugier.mx)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/cool-acid/put.io-garbage-truck/issues"
+  },
+  "homepage": "https://github.com/cool-acid/put.io-garbage-truck#readme",
+  "dependencies": {
+    "put.io-v2": "0.0.2"
+  }
+}
